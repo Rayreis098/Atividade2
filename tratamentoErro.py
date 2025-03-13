@@ -3,9 +3,7 @@ def linha():
     print('___________________________________')
 
 
-#estratégia de implementação com laço de repetção while true
-
-while True:
+while True: #estratégia de implementação com laço de repetção while true
 
     #Tratamento de erro
     try:
@@ -32,5 +30,6 @@ while True:
     else:
         print(f'{n1} dividido por {n2} é = {conta}')
         break
+    #Mudança
     
 
