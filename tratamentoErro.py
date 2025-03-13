@@ -30,6 +30,6 @@ while True: #estratégia de implementação com laço de repetção while true
     else:
         print(f'{n1} dividido por {n2} é = {conta}')
         break
-    #Mudança
+    
     
 
